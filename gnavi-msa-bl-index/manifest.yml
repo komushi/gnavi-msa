@@ -1,0 +1,9 @@
+---
+applications:
+- name: gnavi-msa-bl-index
+  memory: 64M
+  instances: 1
+  host: gnavi-msa-bl-index
+# TODO_01 uncomment the following services
+#  services:
+#    - gnavi_mongo
